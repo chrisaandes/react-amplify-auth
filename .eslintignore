@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+amplify
+src/aws-exports.js
+__tests__
+*.test.tsx
+*.ts
